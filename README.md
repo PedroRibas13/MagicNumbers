@@ -6,3 +6,7 @@ Progresso: Em andamento.
 Ferramentas utilizadas: Unity, C#, Visual Studio Basic, Visual Studio Code
 Download: <link será colocado aqui quando estiver disponivel para download>
 Autores do Projeto: Pedro Luis Ribas do Carmo
+
+
+Até o atual momento já foi feito a escolha da arte, do protagonista e dos inimigos
+Também foi feito o Game Design, aonde as 3 partes do mapa já está pronto com os inimigos posicionados
