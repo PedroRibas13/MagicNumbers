@@ -10,13 +10,12 @@ public class enemyScript : MonoBehaviour
 
     public float _moveSpeedEnemy = 3.5f;
     private Vector2 _enemyDirection;
-    private Rigidbody2D _enemyRB2D;
+    public Rigidbody2D _enemyRB2D;
 
     public detectionController _detectionArea;
 
     private SpriteRenderer _spriteRenderer;
 
-    // Start is called before the first frame update
     void Start()
     {
         _enemyRB2D = GetComponent<Rigidbody2D>();

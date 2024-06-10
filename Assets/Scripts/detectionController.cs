@@ -6,7 +6,7 @@ public class detectionController : MonoBehaviour
 {
 
     public string _tagTargetDetection = "Jogador";
-
+    
     public List<Collider2D> detectedObjs = new List<Collider2D>();
     
     private void OnTriggerEnter2D(Collider2D collision){
@@ -20,4 +20,5 @@ public class detectionController : MonoBehaviour
             detectedObjs.Remove(collision);
         }
     }
+    
 }

@@ -68,9 +68,10 @@ public class PlayerController : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space)){
             _isAttack = true;
             _playerSpeed = 0;
+            
             Collider2D colliderInimigo = Physics2D.OverlapCircle(this.pontoAtaque.position, this.raioAtaque);
             if(colliderInimigo != null){
-                Inimigos inimigo = colliderInimigo.GetComponent<enemyScript>();
+                enemyScript inimigo = colliderInimigo.GetComponent<enemyScript>();
                 if(inimigo != null){
                     inimigo.ReceberDano();
                 }
