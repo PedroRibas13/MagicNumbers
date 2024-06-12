@@ -4,7 +4,7 @@ Repositorio para o Jogo Magic Number para a materia de Topicos Especiais em Tecn
 Sobre: O projeto consiste em um jogo 2D bastante interativo aonde o protagonista será utilizado a idealização de ser um Aluno de Magia, com o objetivo de auxiliar o ensino de matematicas como operações basicas utilizando  por  meio  de  puzzles  e  situações de combate simples, para conseguir passar por esses desafios.
 Progresso: Em andamento.
 Ferramentas utilizadas: Unity, C#, Visual Studio Basic, Visual Studio Code
-Download: <link será colocado aqui quando estiver disponivel para download>
+Download: [https://fatecspgov-my.sharepoint.com/:u:/r/personal/pedro_carmo01_fatec_sp_gov_br/Documents/Magic%20Numbers.zip?csf=1&web=1&e=2T2fTG)](https://fatecspgov-my.sharepoint.com/:u:/r/personal/pedro_carmo01_fatec_sp_gov_br/Documents/Magic%20Numbers.zip?csf=1&web=1&e=2T2fTG)
 Autores do Projeto: Pedro Luis Ribas do Carmo
 
 
