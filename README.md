@@ -8,24 +8,24 @@ Download: <link será colocado aqui quando estiver disponivel para download>
 Autores do Projeto: Pedro Luis Ribas do Carmo
 
 
-Realizado a criação do mapa do jogo
-Feito a inclusão do tilemaps
-Feito a inclusão do ambiente
-Feito a inclusão dos objetos
-Feito correção do hitbox do ambiente, impedindo que o jogador saia do mapa
-Feito a inclusão do jogarodr
-Feito as sprites de movimentação do usuario para as 8 direções
-Feito a animação de ataque do jogador
-Feito a inclusão dos inimigos no mapa
-Feito a inclusão do chefão do mapa
-Feito a inclusão da movimentação dos inimigos quando o jogador esta proximo
-Feito a inclusão do jogador conseguir inflingir dano no inimigo (com problemas, as vezes o hit não pega)
-Feito a inclusão do sistema de vida do usuario (com problemas, o usuario não leva dano ao encostar no inimigo)
+Realizado a criação do mapa do jogo;
+Feito a inclusão do tilemaps;
+Feito a inclusão do ambiente;
+Feito a inclusão dos objetos;
+Feito correção do hitbox do ambiente, impedindo que o jogador saia do mapa;
+Feito a inclusão do jogarodr;
+Feito as sprites de movimentação do usuario para as 8 direções;
+Feito a animação de ataque do jogador;
+Feito a inclusão dos inimigos no mapa;
+Feito a inclusão do chefão do mapa;
+Feito a inclusão da movimentação dos inimigos quando o jogador esta proximo;
+Feito a inclusão do jogador conseguir inflingir dano no inimigo (com problemas, as vezes o hit não pega);
+Feito a inclusão do sistema de vida do usuario (com problemas, o usuario não leva dano ao encostar no inimigo);
 
-Faltou
-Incluir puzzles
-Incluir mecanica dos numeros
-Incluir mecanica dos numeros nos puzzles 
-Tela de inicio
-Menu
-Tela de game over
+Faltou:
+Incluir puzzles;
+Incluir mecanica dos numeros;
+Incluir mecanica dos numeros nos puzzles ;
+Tela de inicio;
+Menu;
+Tela de game over;
